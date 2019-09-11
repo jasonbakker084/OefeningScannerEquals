@@ -23,9 +23,7 @@ public class Main {
         System.out.print("Type my full name: ");      
         
         boolean checkout = false;
-        boolean nameCheck = true;      
-        
-        String name = "Jason";
+        boolean nameCheck = true;                     
         
         while(!checkout){
         String sc = s.nextLine();          
